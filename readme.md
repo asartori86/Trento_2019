@@ -96,7 +96,7 @@ Changes to be committed:
 And he commits it
 
 ```
-$ git commit -m "first commit"
+$ git commit -m "Start write-up"
 [master (root-commit) 15ec2cc] first commit
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 very_interesting_text.txt
